@@ -1,0 +1,16 @@
+title: The Kallhoff Team | San Tan Valley & Queen Creek Real Estate
+description: Local real estate guides for San Tan Valley and Queen Creek, Arizona, from The Kallhoff Team | RE/MAX Premier.
+author: The Kallhoff Team | RE/MAX Premier
+baseurl: "/New-Home-Communities-Coming-to-San-Tan-Valley-Queen-Creek"
+url: "https://rebeccakallhoff-sketch.github.io"
+timezone: America/Phoenix
+theme: minima
+future: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+minima:
+  social_links:
+    github: rebeccakallhoff-sketch
+header_pages: []
