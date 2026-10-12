@@ -2,7 +2,7 @@
 layout: post
 title: "Buying Raw Land in San Tan Valley and Queen Creek: The 2026 Due Diligence Checklist"
 description: "Before you buy vacant land in San Tan Valley or Queen Creek: verify the seller, water and well rules in the Pinal AMA, septic, access, earth fissures and title insurance."
-date: 2026-10-29 06:00:00 -0700
+date: 2026-10-15 06:00:00 -0700
 canonical_url: https://kallhoffteam.com/blog/buying-raw-land-san-tan-valley-queen-creek
 author: The Kallhoff Team | RE/MAX Premier
 ---
@@ -120,12 +120,6 @@ It can be, but it's the exact pattern fraudsters copy. Close through a licensed 
 ### Do I need title insurance on raw land?
 
 We strongly recommend it. An owner's policy protects you if a forged deed or hidden defect in the chain of title surfaces after you buy.
-
-## Related Guides
-
-- [How Deed Fraud Targets Vacant Land in San Tan Valley and Queen Creek](https://kallhoffteam.com/blog/deed-fraud-vacant-land-san-tan-valley-queen-creek)
-- [Arizona's Free Deed Fraud Alerts Compared (and What SB 1479 Changed)](https://kallhoffteam.com/blog/arizona-deed-fraud-alerts-pinal-maricopa-sb-1479)
-- [Protecting a Vacant Home from Fraud, Squatters and Insurance Gaps](https://kallhoffteam.com/blog/vacant-home-protection-san-tan-valley-queen-creek)
 
 ## Looking at a Lot?
 

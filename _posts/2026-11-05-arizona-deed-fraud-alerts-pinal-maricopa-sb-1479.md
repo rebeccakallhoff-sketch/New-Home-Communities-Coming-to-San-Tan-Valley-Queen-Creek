@@ -2,7 +2,7 @@
 layout: post
 title: "Arizona Deed Fraud Alerts Compared: How San Tan Valley and Queen Creek Owners Sign Up (and What SB 1479 Changed)"
 description: "Compare Arizona's 4 free deed fraud alerts (ERAS, Pinal Recording Notification, Maricopa Title Alert, Pinal PAL) and what SB 1479 changed for San Tan Valley and Queen Creek owners."
-date: 2026-10-22 06:00:00 -0700
+date: 2026-11-05 06:00:00 -0700
 canonical_url: https://kallhoffteam.com/blog/arizona-deed-fraud-alerts-pinal-maricopa-sb-1479
 author: The Kallhoff Team | RE/MAX Premier
 ---
@@ -123,9 +123,9 @@ Yes. Since September 2026, SB 1479 requires a valid government photo ID to recor
 
 ## Related Guides
 
-- [How Deed Fraud Targets Vacant Land in San Tan Valley and Queen Creek](https://kallhoffteam.com/blog/deed-fraud-vacant-land-san-tan-valley-queen-creek)
 - [The Raw Land Due Diligence Checklist](https://kallhoffteam.com/blog/buying-raw-land-san-tan-valley-queen-creek)
 - [Protecting a Vacant Home from Fraud, Squatters and Insurance Gaps](https://kallhoffteam.com/blog/vacant-home-protection-san-tan-valley-queen-creek)
+- [How Deed Fraud Targets Vacant Land in San Tan Valley and Queen Creek](https://kallhoffteam.com/blog/deed-fraud-vacant-land-san-tan-valley-queen-creek)
 
 ## Want Help Getting Set Up?
 

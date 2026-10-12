@@ -2,7 +2,7 @@
 layout: post
 title: "Leaving a Home Vacant in San Tan Valley or Queen Creek? How to Protect It from Deed Fraud, Squatters and Insurance Gaps"
 description: "Snowbird, inherited or between-moves home sitting empty? Protect it from deed fraud and squatters, check your insurance vacancy clause, and use Arizona's new SB 1426 squatter law."
-date: 2026-11-05 06:00:00 -0700
+date: 2026-10-22 06:00:00 -0700
 canonical_url: https://kallhoffteam.com/blog/vacant-home-protection-san-tan-valley-queen-creek
 author: The Kallhoff Team | RE/MAX Premier
 ---
@@ -114,8 +114,6 @@ No. That's a myth. Adverse possession in Arizona generally requires years of con
 
 ## Related Guides
 
-- [How Deed Fraud Targets Vacant Land in San Tan Valley and Queen Creek](https://kallhoffteam.com/blog/deed-fraud-vacant-land-san-tan-valley-queen-creek)
-- [Arizona's Free Deed Fraud Alerts Compared (and What SB 1479 Changed)](https://kallhoffteam.com/blog/arizona-deed-fraud-alerts-pinal-maricopa-sb-1479)
 - [The Raw Land Due Diligence Checklist](https://kallhoffteam.com/blog/buying-raw-land-san-tan-valley-queen-creek)
 
 ## Leaving Town or Holding an Empty House?
